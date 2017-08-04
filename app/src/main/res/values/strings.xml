@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Fb_api</string>
-    <string name="facebook_app_id">1370625533034248</string>
+    <string name="facebook_app_id">415013675560939</string>
+    <string name="fb_login_protocol_scheme">fb123206584984118</string>
 
 </resources>
